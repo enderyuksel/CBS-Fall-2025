@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/z/a6udaKM=",
+  "success": true,
+  "projectFilePath": "/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week6 Connect backend with frontend/Backend/CourseAdminSystem.Model/CourseAdminSystem.Model.csproj",
+  "expectedPackageFiles": [
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.configuration/9.0.9/microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.9/microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.primitives/9.0.9/microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
