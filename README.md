@@ -1,0 +1,1 @@
+This repo is to accompany the Applied Programming course in the Master of Science in Business Administration and Digital Business programme in Copenhagen Business School, in the semester of Fall 2025.
