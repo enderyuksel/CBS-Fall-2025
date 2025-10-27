@@ -1,0 +1,27 @@
+<div>
+    Id: <span>{{student.id}}</span>
+</div>
+<div>
+    First name: <input type="text" [(ngModel)]="student.firstName" required #firstName="ngModel">
+    @if (firstName.invalid) {<span>First name must be provided</span>}
+</div>
+<div>
+    Last name: <input type="text" [(ngModel)]="student.lastName" required #lastName="ngModel">
+    @if (lastName.invalid) {<span>Last name must be provided</span>}
+</div>
+<div>
+    Email: <input type="text" [(ngModel)]="student.email">
+</div>
+<div>
+    Phone: <input type="text" [(ngModel)]="student.phone">
+</div>
+<div>
+    Date of Birth: <input type="text" [(ngModel)]="student.dateOfBirth">
+</div>
+<div>
+    Study Program: <input type="text" [(ngModel)]="student.studyProgramId" required pattern="\d+" minlength="1" maxlength="2" #studyProgram="ngModel">
+    @if (studyProgram.errors?.['required']) {<div>Study program is required</div>}
+    @if (studyProgram.errors?.['pattern']) {<div>Only digits</div>}
+</div>
+@if (firstName.invalid || lastName.invalid || studyProgram.invalid) {<div>Error in data</div>}
+@else {<button (click)="updateStudent()">Update</button>}

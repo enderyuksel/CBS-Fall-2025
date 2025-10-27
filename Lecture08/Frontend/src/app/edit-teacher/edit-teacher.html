@@ -1,0 +1,17 @@
+<div>
+    Id: <span>{{teacher.id}}</span>
+</div>
+<div>
+    First name: <input type="text" [(ngModel)]="teacher.firstName" required #firstName="ngModel">
+</div>
+<div>
+    Last name: <input type="text" [(ngModel)]="teacher.lastName" required #lastName="ngModel">
+</div>
+<div>
+    Degree: <input type="text" [(ngModel)]="teacher.degree">
+</div>
+<div>
+    Department: <input type="text" [(ngModel)]="teacher.department">
+</div>
+@if (firstName.invalid || lastName.invalid) {<div>Error in data</div>}
+@else {<button (click)="updateTeacher()">Update</button>}

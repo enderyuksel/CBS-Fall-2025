@@ -1,0 +1,37 @@
+<table>
+    <tr>
+        <td>Id</td>
+        <td>{{student.id}}</td>
+    </tr>
+    <tr>
+        <td>First name</td>
+        <td>{{student.firstName}}</td>
+    </tr>
+    <tr>
+        <td>Last name</td>
+        <td>{{student.lastName}}</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>{{student.email}}</td>
+    </tr>
+    <tr>
+        <td>Phone</td>
+        <td>{{student.phone}}</td>
+    </tr>
+    <tr>
+        <td>Date of Birth</td>
+        <td>{{student.dateOfBirth}}</td>
+    </tr>
+    <tr>
+        <td>Study Program</td>
+        <td>{{student.studyProgramId}}</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div>
+                <button (click)="editStudent(student.id)">Edit</button>
+                <button (click)="deleteStudent()">Delete</button>
+            </div>
+        </td>
+</table>
