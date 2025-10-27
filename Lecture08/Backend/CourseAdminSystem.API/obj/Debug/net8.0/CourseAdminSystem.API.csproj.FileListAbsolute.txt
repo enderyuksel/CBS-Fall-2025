@@ -1,0 +1,120 @@
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/appsettings.Development.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/appsettings.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.deps.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.runtimeconfig.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.pdb
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.csproj.AssemblyReference.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.AssemblyInfoInputs.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.AssemblyInfo.cs
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.csproj.CoreCompileInputs.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.CourseAdminSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.build.CourseAdminSystem.API.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CourseAdminSystem.API.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CourseAdminSystem.API.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/scopedcss/bundle/CourseAdminSystem.API.styles.css
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAd.CB9971C4.Up2Date
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/refint/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.pdb
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.genruntimeconfig.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/obj/Debug/net8.0/ref/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Npgsql.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.Model.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/CourseAdminSystem/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.Model.pdb
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/appsettings.Development.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/appsettings.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.deps.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.runtimeconfig.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.pdb
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Npgsql.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.Model.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.Model.pdb
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.csproj.AssemblyReference.cache
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.AssemblyInfoInputs.cache
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.AssemblyInfo.cs
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.csproj.CoreCompileInputs.cache
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.CourseAdminSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.build.CourseAdminSystem.API.props
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CourseAdminSystem.API.props
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CourseAdminSystem.API.props
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/scopedcss/bundle/CourseAdminSystem.API.styles.css
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAd.CB9971C4.Up2Date
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/refint/CourseAdminSystem.API.dll
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.pdb
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.genruntimeconfig.cache
+/Users/enderyuksel/Lecture06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/ref/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/appsettings.Development.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/appsettings.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.deps.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.runtimeconfig.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.API.pdb
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Npgsql.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.Model.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/bin/Debug/net8.0/CourseAdminSystem.Model.pdb
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.csproj.AssemblyReference.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.AssemblyInfoInputs.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.AssemblyInfo.cs
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.csproj.CoreCompileInputs.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.CourseAdminSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.build.CourseAdminSystem.API.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CourseAdminSystem.API.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CourseAdminSystem.API.props
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/scopedcss/bundle/CourseAdminSystem.API.styles.css
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAd.CB9971C4.Up2Date
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/refint/CourseAdminSystem.API.dll
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.pdb
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/CourseAdminSystem.API.genruntimeconfig.cache
+/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/obj/Debug/net8.0/ref/CourseAdminSystem.API.dll

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dfu15pi7pmE=",
+  "success": true,
+  "projectFilePath": "/Users/enderyuksel/Library/CloudStorage/OneDrive-CBS-CopenhagenBusinessSchool/Applied Programming 2025 Fall/Week7 Validation/Code/CodeAfterE06/Backend/CourseAdminSystem.API/CourseAdminSystem.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.configuration/9.0.9/microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.9/microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.extensions.primitives/9.0.9/microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/enderyuksel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
